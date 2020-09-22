@@ -1,5 +1,5 @@
 /*
-	C program to generate 102 random numbers which are exactly 3 characters long
+	C program to generate 102 random numbers which are exactly 3 bits long
 */
 
 #include <stdio.h>
